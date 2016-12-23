@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+target 'SwiftProject_1' do
+
+pod 'Alamofire', '~> 4.2.0'
+pod 'MBProgressHUD', '~> 1.0.0'
+
+end
